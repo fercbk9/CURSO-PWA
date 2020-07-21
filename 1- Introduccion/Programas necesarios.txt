@@ -1,0 +1,5 @@
+-Visual studio code.
+-Git.
+-Node js.
+-Postman.
+Descargar las ultimas versiones de sus respectivas webs.
